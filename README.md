@@ -4,6 +4,10 @@ To design a Horn antenna operating at 5.5 GHz and to find the directivity andHal
 
 ## Design:
 
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/547ca3af-bbe2-45b0-acd6-93cb22124f15" />
+
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/cc7d7344-469f-408d-85eb-8d945b3d4f31" />
+
 ####  Mathematical Calculation
 
 Tan θ/2 =a/2L L=a ^2/8 δ
